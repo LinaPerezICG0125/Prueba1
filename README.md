@@ -1,5 +1,5 @@
 # Prueba1
-Inicio en el mundo de la programación
+Inicio en el mundo de la programación 
 
 [german_credit_data_biased_training.csv](https://github.com/user-attachments/files/22980810/german_credit_data_biased_training.csv)
 CheckingStatus,LoanDuration,CreditHistory,LoanPurpose,LoanAmount,ExistingSavings,EmploymentDuration,InstallmentPercent,Sex,OthersOnLoan,CurrentResidenceDuration,OwnsProperty,Age,InstallmentPlans,Housing,ExistingCreditsCount,Job,Dependents,Telephone,ForeignWorker,Risk
